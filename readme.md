@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/manikanta0408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikanta0408" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manikantap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikantap" height="30" width="40" /></a>
-<a href="https://instagram.com/oye_manii04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oye_manii04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manikantap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanta-p-916965253" height="30" width="40" /></a>
+<a href="https://instagram.com/oye_manii04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oye__manii04" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manikantap484" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manikantap484" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/justmani04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justmani04" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@" height="30" width="40" /></a>
