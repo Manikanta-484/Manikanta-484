@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Amaxon Clone](https://github.com/Manikanta-484/Amazon-Clone)
+- 🔭 I’m currently working on [Amazon Clone](https://github.com/Manikanta-484/Amazon-Clone)
 
 - 🌱 I’m currently learning **Java Script and MERN Stack**
 
