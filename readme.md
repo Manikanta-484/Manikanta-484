@@ -39,4 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta-484&" alt="manikanta-484" /></p>
 
 <!-- Contribution Calendar -->
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-484&theme=react-dark&hide_border=true" alt="Manikanta's contribution calendar" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Manikanta-484&theme=github&bg_color=ffffff&color=040404&line=2fc18c&point=24292f&area=true&hide_border=true" alt="Manikanta's contribution calendar" /></p>
+
