@@ -1,3 +1,6 @@
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Manikanta;A+Passionate+Frontend+Developer+from+India;Currently+Learning+MERN+Stack;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Manikanta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
